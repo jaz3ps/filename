@@ -1,5 +1,3 @@
-"""""This is middle version of filename task"""
-
 # Input
 file_list = [
     '/home/python/learning/good_stuff/code1.py',
